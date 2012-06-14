@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='Qi',
-    version='0.1.0',
+    version='0.1',
     author='Vinhthuy Phan',
     author_email='vphan@memphis.edu',
     packages=['qi'],
